@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIImages
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1935559b40193e44cb8ee148ab1a8399, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 92bbcd0047e94f54189aa5a485aa5091, type: 3}
+  - {fileID: 21300000, guid: 42ecfc20481300e4499ebabf7bb5a2ed, type: 3}
+  - {fileID: 21300000, guid: 9345563084efdc843a2b07a41e05533d, type: 3}
+  - {fileID: 21300000, guid: c4a07580b64a92a48bf282eff9c15bd9, type: 3}
+  - {fileID: 21300000, guid: 978f5921e87d04a7f88a2dc6c330fab2, type: 3}
+  - {fileID: 21300000, guid: 00ac6c42a9b9771488aba5afa7a763f2, type: 3}
+  - {fileID: 21300000, guid: 0369ef52fb00444b686f143cc36b2b73, type: 3}
+  - {fileID: 21300000, guid: 520bbea2b0dab6748bda60c63ba3fc39, type: 3}
+  - {fileID: 21300000, guid: 4db4acc29dd0b734e9979bdcaf12486b, type: 3}
+  - {fileID: 21300000, guid: 52066fc285ffc4bb0b9fc98f1d840149, type: 3}
+  - {fileID: 21300000, guid: 9960cd5398a754e8a963656ed6bb38eb, type: 3}
+  - {fileID: 21300000, guid: 1ec515b3ff1581048aa4adf07ba3630c, type: 3}
+  - {fileID: 21300000, guid: 8fd521d3fc1eb46fd92b0f29508e5f76, type: 3}
+  - {fileID: 21300000, guid: 085661f31dac8904486a93f040e30050, type: 3}
+  - {fileID: 21300000, guid: cb37917483ee24fea8fab306393441e5, type: 3}
+  - {fileID: 21300000, guid: d14da694cce9b4c2b87ef9421a9bd459, type: 3}
+  - {fileID: 21300000, guid: 374d83a40191ece449d47a40feb23dfc, type: 3}
+  - {fileID: 21300000, guid: b691d5e42f7f7ee49a2740c779d02a8b, type: 3}
+  - {fileID: 21300000, guid: bb129f0554ce5482e97e81f0688f3a7a, type: 3}
+  - {fileID: 21300000, guid: 4462c4451bcef2242a3e556dc8bc53c0, type: 3}
+  - {fileID: 21300000, guid: a83159855797443f386c18e603ba9628, type: 3}
+  - {fileID: 21300000, guid: 6b96d6950a9c30743a2e826ee8684ac4, type: 3}
+  - {fileID: 21300000, guid: 74114cc50585c4f6785798e3d7f07fc8, type: 3}
+  - {fileID: 21300000, guid: 9840cec527b9dbb46b0c48d7ddd09dd1, type: 3}
+  - {fileID: 21300000, guid: 8fcd11d5f5130814e9547914cfe440f0, type: 3}
+  - {fileID: 21300000, guid: ab5810f503824f24389f7be7a20509ad, type: 3}
+  - {fileID: 21300000, guid: 3a057b166165546afb4bab7fbec93a29, type: 3}
+  - {fileID: 21300000, guid: d790827655d49426fb2aec6c6fc9fc18, type: 3}
+  - {fileID: 21300000, guid: 2bc701b63b63f40e0893a9fabeaa0a78, type: 3}
+  - {fileID: 21300000, guid: d535ffb65bf754dda95c3181d7389600, type: 3}
+  - {fileID: 21300000, guid: 0493a2c681b41c44688cf02652f7f1d2, type: 3}
+  - {fileID: 21300000, guid: c1447be6fd3e3e3488296598651d9e57, type: 3}
+  - {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+  - {fileID: 21300000, guid: 209e0eb770bd94bc4ac1cf106de18eb7, type: 3}
+  - {fileID: 21300000, guid: 99255dc78580fb44aafbc9c00479934d, type: 3}
+  - {fileID: 21300000, guid: 482701d7fe23a4094b9fa72ba3be7ccd, type: 3}
+  - {fileID: 21300000, guid: a31276d7a75409444a2150ac227ef0f7, type: 3}
+  - {fileID: 21300000, guid: f34e6f68e18d69a4288a6c33c15fbf24, type: 3}
+  - {fileID: 21300000, guid: 4df8f588e2dbd4977adde745edb6564a, type: 3}
+  - {fileID: 21300000, guid: c4b693c895ef5434381d5f3347dcb40f, type: 3}
+  - {fileID: 21300000, guid: e92b76e84019e4f3a8b7373222e14fb0, type: 3}
+  - {fileID: 21300000, guid: a944d609272a36644a61850bec74034a, type: 3}
+  - {fileID: 21300000, guid: be5c52395bcbee74fa08e0ec8a9d3768, type: 3}
+  - {fileID: 21300000, guid: 0363d21a84dc6491e831bae874edc6ad, type: 3}
+  - {fileID: 21300000, guid: 59576f3a895d80748bce8b4272327ead, type: 3}
+  - {fileID: 21300000, guid: 48b3d44a58491465faf1dd6d9e60ae12, type: 3}
+  - {fileID: 21300000, guid: 455d317bd36c5444483f77940660f34b, type: 3}
+  - {fileID: 21300000, guid: fbcf87eb3b7cb4dacbe30fb3e397f4be, type: 3}
+  - {fileID: 21300000, guid: 5c0fc92c3cd0949b5a21be0b0049bafa, type: 3}
+  - {fileID: 21300000, guid: 3df7609c75e4c46458ec493a2dcda4f3, type: 3}
+  - {fileID: 21300000, guid: 1c54049c79916ab47baab013a025511e, type: 3}
+  - {fileID: 21300000, guid: d88078ece351a4e49afbb54e635765a3, type: 3}
+  - {fileID: 21300000, guid: e544a06ddd05f42fd879ce1fbe06593c, type: 3}
+  - {fileID: 21300000, guid: f3f5997dacc7a47069d0a728e81564b0, type: 3}
+  - {fileID: 21300000, guid: 396cc9dd609d64538a3f5bfb17ab9566, type: 3}
+  - {fileID: 21300000, guid: 5f57eb1e14dfebe4481a0d9e116b14d6, type: 3}
+  - {fileID: 21300000, guid: 30af861f4c8c141159c3c1ff5b424c3c, type: 3}
+  - {fileID: 21300000, guid: 681db73f19fb24efe843aad713eccb43, type: 3}
+  - {fileID: 21300000, guid: 267c0f3f80b3248eba5b2ce935fbc434, type: 3}
+  - {fileID: 21300000, guid: 7e092f4f30246ee4a84592b028d6df24, type: 3}
+  - {fileID: 21300000, guid: 7062c97f2fb5fb04297fc8f66352ae7c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BuyShovelButtonImage
+  - Ring
+  - Frame
+  - VideoIcon_1
+  - stage_icon_boss
+  - ToolsCountFrame
+  - fx_rotate_line
+  - Whight-square
+  - button_sky
+  - btn_icon_gold
+  - mana_prg_frame
+  - ToolsCointBackground
+  - play_btn_icon_auto
+  - DropButtonImage
+  - button_green
+  - reward_icon_chest
+  - MultiplierCursor
+  - Cube2
+  - loading_bg
+  - ToolsCointFiller
+  - skill_icon_passive
+  - mpui_default_empty_sprite
+  - speech_bubble_white
+  - ribbon_bg_purpule
+  - SoundOff
+  - HandPointer
+  - top_status_bg_white
+  - offline_reward_gold
+  - button_orange
+  - btn_icon_ad_bic
+  - RoundedBackground
+  - Square Blue
+  - lobby_sub_icon_reward
+  - equipicon_sample_chest
+  - BossHeathbarFrame
+  - check_green
+  - svinka_outlined
+  - inbox_character_sample_3
+  - stage_reward_icon_gold
+  - GoalPlate
+  - rune_bg_activity
+  - svinka
+  - BossHeathbarBackground
+  - switch_on_bg
+  - lobby_sub_icon_reward_Yellow
+  - skill_passive_rotate_white
+  - lobby_play_icon_battle
+  - pass_icon_time
+  - lobby_user_lv_reward_icon
+  - ribbon_bg_green
+  - SoundOn
+  - TrashCanIcon
+  - toast_popup_bg
+  - adremove_bg_glow_white
+  - btn_top_label
+  - RewardButton
+  - common_bg_glow_512
+  - button_red
+  - mission_reward_bg_gray
+  - RewardMultiplierBar
+  - Circle
+  m_RenderDataMap: {}
+  m_Tag: UIImages
+  m_IsVariant: 0

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716de6c8c81c5954baee7a22b8f24bae, type: 3}
+  m_Name: CellContentInfo
+  m_EditorClassIdentifier: 
+  ShovelCountsToNextPurchaseLevel: 000000002d0000005c00000087000000a5000000c8000000f5000000270100004f010000770100009f010000f401000026020000580200008a020000bc020000ee0200002003000039030000520300006b030000
+  ShovelConfigs:
+  - CellContentIcon: {fileID: 21300000, guid: 2cb5e088d7f3f3445bb24bedee304fb4, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 39b444b9ff133a142a5d07f5eb12d40b, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 6b2b2511c8860334e8864bed2b8a17dd, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: ca20cbd24dab7ef489b5951a5f68971a, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 5f815d3e24bccd24792286a108dbec9e, type: 3}
+    CellContentPrefab: {fileID: 4910015671337171442, guid: 55c911cdc61e8a346839d8516386913c, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 0ca5ff1138715fc4ab966db4d4d4ac12, type: 3}
+    CellContentPrefab: {fileID: 9163407762123940045, guid: 7af73965553ba4f45bba5cc23e9674e9, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 1a4f14bcbfb79b74ba5036641605578c, type: 3}
+    CellContentPrefab: {fileID: 2455683336511655128, guid: 447ca2cd4bd11e340936cdf7928642e1, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 8850063e3ab286946bde17b871ab80ca, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: a93ea502d78535047822e68f51683132, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: ed681a6f2a51e1442a37b06ba66d51d6, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: b754fe2a253b4584a8c818ffd2194670, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 08a6e7540793a1449a7729cf5a5842c4, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 0230e60b0f32d9448908f7aa3348b64e, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 3c0dc66dd52e962498f477c3f6d28e47, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: eb96c996d8bfe0b47b9835122422c4c9, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 5cd98290d07638c49b48429fd4e5c0db, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 9b78c00f7556d984399ee0c3bff1f918, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: d0f752e94e8892f43bd5f1459d1458ae, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 2f139edd2143c404fa8856dee0e56d17, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: a4487e9ae57b84a44a70ad56b5a9da7b, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 47dcc888ee117b3419144abee40e9b7d, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 91b24b7434c207d449bcee8fa3701eea, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 27de44816037b8d429e448e558cc6a5e, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 877245ed8e5b78a4788729e186e816cb, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 59717a132c11e554f9a364fb872bc6ac, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: fe2204ffa3fe900439f5fa707f57a1ec, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 9eb5d5f21cb23224dad6cb9ba170a535, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: c5f51acc33bb4ad49989e31090ad5500, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 8c64388051ee4aa4a974c23d508e715e, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: f224be4d5dde44d4a813ffe13bb079cd, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: f8e695f4357053344a0a86d1178caa34, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: b9b25ebce7b1ed04f85c711c2fb82eeb, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: d317bbbcbdb0a2f4db5133b0d3f4afd2, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: ae0f669328e8b534285dd9f6388ff76d, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 18363d815046ff94fac476267c5ec4a0, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 85da460445918404b9d450b04247149b, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: 69ce72b17f3d6cb4bbb09d2da1fea876, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 5b003ed6e00d3714286049502035fc5e, type: 3}
+    CellContentPrefab: {fileID: 7446512201027632151, guid: a7ecd4e68b699e848b84750d0508a0f3, type: 3}
+  GiftConfigs:
+  - CellContentIcon: {fileID: 21300000, guid: 59576f3a895d80748bce8b4272327ead, type: 3}
+    CellContentPrefab: {fileID: 4910156595205908603, guid: 827a837377ae08a4687209fb26e24390, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 59576f3a895d80748bce8b4272327ead, type: 3}
+    CellContentPrefab: {fileID: 4910156595205908603, guid: 6f2f57cb366bea944a5e728be481d69a, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    CellContentPrefab: {fileID: 4910156595205908603, guid: 26cf38cf5a4ee7445bc40d193b3f0841, type: 3}
+  - CellContentIcon: {fileID: 21300000, guid: 5c0fc92c3cd0949b5a21be0b0049bafa, type: 3}
+    CellContentPrefab: {fileID: 4910156595205908603, guid: 3203d7eaf118206469c1aad332a7c496, type: 3}
+  AdvGiftConfigs:
+  - CellContentIcon: {fileID: 21300000, guid: c4a07580b64a92a48bf282eff9c15bd9, type: 3}
+    CellContentPrefab: {fileID: 7392369566888325342, guid: 94fe415c6c68a9840bb10f18e0ca68f7, type: 3}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67da393a0820d15498aa9f8971fa6b0f, type: 3}
+  m_Name: RewardForShovelConfig
+  m_EditorClassIdentifier: 
+  RewardForLevels:
+  - "\u0421ellContentIds": 
+  - "\u0421ellContentIds": 
+  - "\u0421ellContentIds": e9030000e9030000
+  - "\u0421ellContentIds": e903000001000000e9030000
+  - "\u0421ellContentIds": e903000002000000e9030000
+  - "\u0421ellContentIds": e903000003000000e9030000
+  - "\u0421ellContentIds": e903000003000000eb030000
+  - "\u0421ellContentIds": 03000000e903000003000000
+  - "\u0421ellContentIds": ea03000004000000ea030000
+  - "\u0421ellContentIds": ea03000005000000ea030000
+  - "\u0421ellContentIds": 05000000ea030000ea03000005000000
+  - "\u0421ellContentIds": ea03000006000000ea03000005000000
+  - "\u0421ellContentIds": 08000000ea03000007000000ea030000
+  - "\u0421ellContentIds": ea03000008000000eb030000ea030000
+  - "\u0421ellContentIds": 08000000ea030000ea030000ea03000009000000
+  - "\u0421ellContentIds": 0a000000ea03000009000000ea0300000a000000
+  - "\u0421ellContentIds": ea030000eb030000ea030000eb030000ea030000
+  - "\u0421ellContentIds": ea0300000b000000ea0300000c000000ea030000
+  - "\u0421ellContentIds": ea0300000c000000eb0300000d000000ea030000
+  - "\u0421ellContentIds": ea030000eb030000ea030000eb030000ea030000
+  - "\u0421ellContentIds": 0e000000ea0300000f000000ea0300000e000000
+  - "\u0421ellContentIds": ea03000010000000eb03000010000000ea030000

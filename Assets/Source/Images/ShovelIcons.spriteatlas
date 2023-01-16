@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShovelIcons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d094f106ee488e543a0d6e824ad1bbea, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5cd98290d07638c49b48429fd4e5c0db, type: 3}
+  - {fileID: 21300000, guid: 6b2b2511c8860334e8864bed2b8a17dd, type: 3}
+  - {fileID: 21300000, guid: 0ca5ff1138715fc4ab966db4d4d4ac12, type: 3}
+  - {fileID: 21300000, guid: ae0f669328e8b534285dd9f6388ff76d, type: 3}
+  - {fileID: 21300000, guid: 85da460445918404b9d450b04247149b, type: 3}
+  - {fileID: 21300000, guid: 08a6e7540793a1449a7729cf5a5842c4, type: 3}
+  - {fileID: 21300000, guid: 91b24b7434c207d449bcee8fa3701eea, type: 3}
+  - {fileID: 21300000, guid: 5b003ed6e00d3714286049502035fc5e, type: 3}
+  - {fileID: 21300000, guid: 2cb5e088d7f3f3445bb24bedee304fb4, type: 3}
+  - {fileID: 21300000, guid: d0f752e94e8892f43bd5f1459d1458ae, type: 3}
+  - {fileID: 21300000, guid: a4487e9ae57b84a44a70ad56b5a9da7b, type: 3}
+  - {fileID: 21300000, guid: 1a4f14bcbfb79b74ba5036641605578c, type: 3}
+  - {fileID: 21300000, guid: b9b25ebce7b1ed04f85c711c2fb82eeb, type: 3}
+  - {fileID: 21300000, guid: c5f51acc33bb4ad49989e31090ad5500, type: 3}
+  - {fileID: 21300000, guid: f224be4d5dde44d4a813ffe13bb079cd, type: 3}
+  - {fileID: 21300000, guid: 3c0dc66dd52e962498f477c3f6d28e47, type: 3}
+  - {fileID: 21300000, guid: 877245ed8e5b78a4788729e186e816cb, type: 3}
+  - {fileID: 21300000, guid: 8850063e3ab286946bde17b871ab80ca, type: 3}
+  - {fileID: 21300000, guid: 5f815d3e24bccd24792286a108dbec9e, type: 3}
+  - {fileID: 21300000, guid: ed681a6f2a51e1442a37b06ba66d51d6, type: 3}
+  - {fileID: 21300000, guid: fe2204ffa3fe900439f5fa707f57a1ec, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tier10
+  - Tier2
+  - Tier4
+  - Tier19
+  - Tier20
+  - Tier8
+  - Tier13
+  - Tier21
+  - Tier1
+  - Tier11
+  - Tier12
+  - Tier5
+  - Tier18
+  - Tier16
+  - Tier17
+  - Tier9
+  - Tier14
+  - Tier6
+  - Tier3
+  - Tier7
+  - Tier15
+  m_RenderDataMap: {}
+  m_Tag: ShovelIcons
+  m_IsVariant: 0

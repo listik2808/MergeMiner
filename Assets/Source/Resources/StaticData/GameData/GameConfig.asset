@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 729d43406c60418c8fe0ec3b1f49682f, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  RepeatGameFromLevel: 21
+  LevelConfigs:
+  - LevelElementsPath: 
+    SceneName: 000_LoadingScene
+    GoalPath: 
+    Skybox: {fileID: 0}
+    CellCount: 0
+    LevelReward: 0
+    ChestReward: 
+  - LevelElementsPath: LevelElements/LevelElements 1
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 10
+    LevelReward: 15
+    ChestReward: e903000001000000e903000001000000e9030000
+  - LevelElementsPath: LevelElements/LevelElements 2
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 10
+    LevelReward: 25
+    ChestReward: 01000000e903000001000000e903000001000000
+  - LevelElementsPath: LevelElements/LevelElements 3
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 10
+    LevelReward: 35
+    ChestReward: 01000000e903000001000000e903000001000000
+  - LevelElementsPath: LevelElements/LevelElements 4
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 10
+    LevelReward: 50
+    ChestReward: e903000002000000e903000001000000e9030000
+  - LevelElementsPath: LevelElements/LevelElements 5
+    SceneName: 001_GameLevel
+    GoalPath: Goals/BossGoal (Stone Elemental)
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 10
+    LevelReward: 70
+    ChestReward: 01000000e903000002000000e903000001000000
+  - LevelElementsPath: LevelElements/LevelElements 6
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 15
+    LevelReward: 80
+    ChestReward: e903000002000000ea03000002000000e9030000
+  - LevelElementsPath: LevelElements/LevelElements 7
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 15
+    LevelReward: 50
+    ChestReward: 03000000ea03000002000000e903000001000000
+  - LevelElementsPath: LevelElements/LevelElements 8
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 15
+    LevelReward: 40
+    ChestReward: 03000000e903000002000000e903000002000000
+  - LevelElementsPath: LevelElements/LevelElements 9
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 15
+    LevelReward: 70
+    ChestReward: 03000000e903000001000000e903000001000000
+  - LevelElementsPath: LevelElements/LevelElements 10
+    SceneName: 001_GameLevel
+    GoalPath: Goals/BossGoal (Ice Elemental)
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 15
+    LevelReward: 90
+    ChestReward: 03000000e903000003000000ea03000002000000
+  - LevelElementsPath: LevelElements/LevelElements 11
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 20
+    LevelReward: 130
+    ChestReward: ea03000003000000ea03000003000000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 12
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 20
+    LevelReward: 65
+    ChestReward: 03000000ea03000004000000ea03000003000000
+  - LevelElementsPath: LevelElements/LevelElements 13
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 3
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 20
+    LevelReward: 100
+    ChestReward: ea030000e903000004000000ea03000003000000
+  - LevelElementsPath: LevelElements/LevelElements 14
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 20
+    LevelReward: 95
+    ChestReward: 04000000ea030000e9030000ea03000005000000
+  - LevelElementsPath: LevelElements/LevelElements 15
+    SceneName: 001_GameLevel
+    GoalPath: Goals/BossGoal (Fire Elemental)
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 20
+    LevelReward: 110
+    ChestReward: 05000000ea03000005000000e903000005000000
+  - LevelElementsPath: LevelElements/LevelElements 16
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 20
+    LevelReward: 80
+    ChestReward: ea030000050000000400000006000000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 17
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 20
+    LevelReward: 100
+    ChestReward: 05000000ea03000006000000ea03000004000000
+  - LevelElementsPath: LevelElements/LevelElements 18
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 20
+    LevelReward: 130
+    ChestReward: ea030000ea03000006000000ea03000006000000
+  - LevelElementsPath: LevelElements/LevelElements 19
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 3
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 25
+    LevelReward: 80
+    ChestReward: 06000000ea03000006000000ea03000007000000
+  - LevelElementsPath: LevelElements/LevelElements 20
+    SceneName: 001_GameLevel
+    GoalPath: Goals/BossGoal (Fire Elemental Horror)
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 25
+    LevelReward: 75
+    ChestReward: ea03000006000000ea03000007000000e9030000
+  - LevelElementsPath: LevelElements/LevelElements 21
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 25
+    LevelReward: 60
+    ChestReward: 08000000ea03000007000000ea03000007000000
+  - LevelElementsPath: LevelElements/LevelElements 22
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 3
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 25
+    LevelReward: 100
+    ChestReward: 08000000ea03000007000000ea03000008000000
+  - LevelElementsPath: LevelElements/LevelElements 23
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 25
+    LevelReward: 110
+    ChestReward: ea030000ea030000eb030000ea030000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 24
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 25
+    LevelReward: 120
+    ChestReward: 09000000ea03000009000000ea03000009000000
+  - LevelElementsPath: LevelElements/LevelElements 25
+    SceneName: 001_GameLevel
+    GoalPath: Goals/BossGoal (Fire Elemental Dragon)
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 25
+    LevelReward: 80
+    ChestReward: ea030000ea03000009000000eb030000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 26
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 25
+    LevelReward: 90
+    ChestReward: ea030000ea0300000a000000ea030000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 27
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 25
+    LevelReward: 130
+    ChestReward: 09000000ea03000008000000eb03000008000000
+  - LevelElementsPath: LevelElements/LevelElements 28
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 25
+    LevelReward: 100
+    ChestReward: 0a000000eb030000ea030000ea03000008000000
+  - LevelElementsPath: LevelElements/LevelElements 29
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 180213b174b523d4dbfc0d0c30dbc44a, type: 2}
+    CellCount: 25
+    LevelReward: 90
+    ChestReward: ea030000ea030000ea030000eb030000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 30
+    SceneName: 001_GameLevel
+    GoalPath: Goals/BossGoal (Fire Elemental Demon)
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 25
+    LevelReward: 120
+    ChestReward: 08000000eb03000009000000ea030000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 31
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 25
+    LevelReward: 140
+    ChestReward: ea030000ea030000ea030000eb030000eb030000
+  - LevelElementsPath: LevelElements/LevelElements 32
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 25
+    LevelReward: 130
+    ChestReward: ea03000008000000eb0300000700000006000000
+  - LevelElementsPath: LevelElements/LevelElements 33
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 1
+    Skybox: {fileID: 2100000, guid: 9a1c2e6517d480d45b4d338e801c8de7, type: 2}
+    CellCount: 25
+    LevelReward: 150
+    ChestReward: 0900000005000000ea030000ea030000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 34
+    SceneName: 001_GameLevel
+    GoalPath: Goals/ChestGoal 2
+    Skybox: {fileID: 2100000, guid: 02648658c43d8f94a8189c75c7f470dc, type: 2}
+    CellCount: 25
+    LevelReward: 140
+    ChestReward: eb030000ea030000ea03000007000000ea030000
+  - LevelElementsPath: LevelElements/LevelElements 35
+    SceneName: 001_GameLevel
+    GoalPath: Goals/BossGoal (Fire Elemental Dragon Fire)
+    Skybox: {fileID: 2100000, guid: d1fcf618fa7aae14db9e57728e94282a, type: 2}
+    CellCount: 25
+    LevelReward: 160
+    ChestReward: ea030000eb030000ea030000ea030000ea030000

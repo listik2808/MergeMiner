@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Source/Animations/Chest/ChestIdle.anim.meta
+guid: 4e2bb8fb17cbe484d861f86e4fe7a3be
+NativeFormatImporter:
+========
+guid: f502555fe7c4e434989f6101534408d7
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> develop_yandex:Assets/Source/Scripts/UI/Localiztion.meta
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
