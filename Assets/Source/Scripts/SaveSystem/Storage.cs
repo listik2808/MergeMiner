@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 #if YANDEX_GAMES && !UNITY_EDITOR
 #endif
-using Agava.YandexGames;
+//using Agava.YandexGames;
 
 namespace Source.Scripts.SaveSystem
 {

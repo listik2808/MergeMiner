@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using Source.Scripts.Analytics;
 using Source.Scripts.Infrastructure.Factory;
 using Source.Scripts.Infrastructure.Services.StaticData;

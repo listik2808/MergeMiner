@@ -1,5 +1,5 @@
 using System;
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using Lean.Localization;
 using TMPro;
 using UnityEngine;

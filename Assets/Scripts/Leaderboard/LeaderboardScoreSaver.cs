@@ -1,5 +1,5 @@
 using System;
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using Source.Scripts.Infrastructure.Services;
 using Source.Scripts.SaveSystem;
 using UnityEngine;

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections;
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using Source.Scripts.Analytics;
 using Source.Scripts.Infrastructure.Factory;
 using Source.Scripts.SaveSystem;
@@ -51,7 +51,7 @@ namespace Source.Scripts.Infrastructure.States
 #if UNITY_WEBGL
             _storage.SaveRemote();
 #else
-            Storage.Save();
+            //Storage.Save();
 #endif
             _analytic.SendEventOnFail(_storage.GetDisplayedLevelNumber());
         }

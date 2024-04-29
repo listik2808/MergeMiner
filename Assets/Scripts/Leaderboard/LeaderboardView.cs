@@ -1,4 +1,4 @@
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
@@ -74,11 +74,11 @@ namespace Assets.Source.UI.Leaderboards
 
         private void GetPlayerInfo()
         {
-            PlayerAccount.GetProfileData((result) =>
-            {
-                _playerID = result.uniqueID;
-                _playerName = result.publicName;
-            });
+            //PlayerAccount.GetProfileData((result) =>
+            //{
+            //    _playerID = result.uniqueID;
+            //    _playerName = result.publicName;
+            //});
         }
 
         private void ResetScrollRectPosition()
@@ -144,18 +144,18 @@ namespace Assets.Source.UI.Leaderboards
         }
         private string TranslateIntoLocalLanguage()
         {
-            if (YandexGamesSdk.Environment.i18n.lang == "tr")
-            {
-                return UnknownPlayerNameTr;
-            }
-            else if (YandexGamesSdk.Environment.i18n.lang == "ru")
-            {
-                return UnknownPlayerNameRu;
-            }
-            else if(YandexGamesSdk.Environment.i18n.lang == "en")
-            {
-                return UnknownPlayerNameEn;
-            }
+            //if (YandexGamesSdk.Environment.i18n.lang == "tr")
+            //{
+            //    return UnknownPlayerNameTr;
+            //}
+            //else if (YandexGamesSdk.Environment.i18n.lang == "ru")
+            //{
+            //    return UnknownPlayerNameRu;
+            //}
+            //else if(YandexGamesSdk.Environment.i18n.lang == "en")
+            //{
+            //    return UnknownPlayerNameEn;
+            //}
 
             return null;
         }

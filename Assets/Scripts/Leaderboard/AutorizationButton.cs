@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using UnityEngine;
 using UnityEngine.UI;
 

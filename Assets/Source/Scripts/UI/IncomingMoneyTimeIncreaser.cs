@@ -1,5 +1,5 @@
 ﻿using System;
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using Source.Scripts.MergedObjects;
 using TMPro;
 using UnityEngine;

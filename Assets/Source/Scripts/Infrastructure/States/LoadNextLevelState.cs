@@ -1,4 +1,4 @@
-﻿using Agava.YandexGames;
+﻿//using Agava.YandexGames;
 using Source.Scripts.Analytics;
 using Source.Scripts.Infrastructure.Factory;
 using Source.Scripts.Infrastructure.Services.StaticData;
@@ -77,7 +77,7 @@ namespace Source.Scripts.Infrastructure.States
 #if UNITY_WEBGL
             _storage.SaveRemote();
 #else
-            Storage.Save();
+           // Storage.Save();
 #endif
             _analytic.SendEventOnLevelStart(_storage.GetDisplayedLevelNumber());
         }

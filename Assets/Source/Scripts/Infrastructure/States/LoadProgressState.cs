@@ -28,7 +28,7 @@ namespace Source.Scripts.Infrastructure.States
 
         private void LoadProgressOrInitNew(Action onRemoteDataLoaded)
         {
-            _coroutineRunner.StartCoroutine(_storage.SyncRemoteSave(onRemoteDataLoaded));
+            //_coroutineRunner.StartCoroutine(_storage.SyncRemoteSave(onRemoteDataLoaded));
         }
     }
 }

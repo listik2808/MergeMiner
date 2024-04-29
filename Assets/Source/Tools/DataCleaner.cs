@@ -30,7 +30,7 @@ namespace Source.Tools
 
         public void ClearData()
         {
-            StartCoroutine(_storage.ClearDataRemote());
+            //StartCoroutine(_storage.ClearDataRemote());
             _gameStateMachine.Enter<LoadProgressState>();
         }
         

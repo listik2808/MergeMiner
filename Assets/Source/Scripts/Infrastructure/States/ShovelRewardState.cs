@@ -3,7 +3,7 @@ using System.Collections;
 using Source.Scripts.Infrastructure.Factory;
 using Source.Scripts.SaveSystem;
 using UnityEngine;
-using Agava.YandexGames;
+//using Agava.YandexGames;
 using Source.Scripts.Analytics;
 using Source.Scripts.Infrastructure.Services.StaticData;
 
